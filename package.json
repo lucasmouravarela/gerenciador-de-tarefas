@@ -14,7 +14,7 @@
     "@fullcalendar/interaction": "^4.3.0",
     "bootstrap": "^4.4.1",
     "gijgo": "^1.9.13",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "material-icons": "^0.3.1"
   }
 }
